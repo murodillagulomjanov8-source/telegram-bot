@@ -217,7 +217,7 @@ QUALITY = {
     "720":  "bestvideo[height<=720][ext=mp4]+bestaudio/best[height<=720]",
     "1080": "bestvideo[height<=1080][ext=mp4]+bestaudio/best[height<=1080]",
     "4k":   "bestvideo[height<=2160][ext=mp4]+bestaudio/best",
-    "best": "bestvideo[ext=mp4]+bestaudio/best[ext=mp4]/best",
+    "best": "best[ext=mp4]/best"
 }
 
 def find_file(folder, vid_id):
