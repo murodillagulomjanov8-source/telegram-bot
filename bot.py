@@ -15,9 +15,9 @@ import yt_dlp
 # ════════════════════════════════════════
 #  SOZLAMALAR
 # ════════════════════════════════════════
-BOT_TOKEN  = "BU_YERNI_TOKENING_BILAN_ALMASHIR"
-ADMIN_ID   = 123456789        # @userinfobot dan oling
-CHANNEL_ID = "@your_channel"  # Masalan: @mychannel
+BOT_TOKEN  = "8813233773:AAHxoJvOtw4_OYoGjSsi8PS1fnhCOCsf_pY"
+ADMIN_ID   = 8234429762        # @userinfobot dan oling
+CHANNEL_ID = "@songpr1m_bot"  # Masalan: @mychannel
 # ════════════════════════════════════════
 
 logging.basicConfig(level=logging.INFO)
